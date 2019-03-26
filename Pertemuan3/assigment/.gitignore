@@ -1,0 +1,4 @@
+*.jpg
+!file.jpg
+*.png
+killport
