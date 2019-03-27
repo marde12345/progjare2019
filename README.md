@@ -11,4 +11,11 @@ upload    -> upload file dari client ke server
 ```
 
 contoh penggunaan :
+###ls
+![alt text](https://raw.githubusercontent.com/marde12345/progjare2019/master/Tugas%203%20-%20UTS/img/ls.png)
 
+###see
+![alt text](https://raw.githubusercontent.com/marde12345/progjare2019/master/Tugas%203%20-%20UTS/img/see.png)
+
+###menu
+![alt text](https://raw.githubusercontent.com/marde12345/progjare2019/master/Tugas%203%20-%20UTS/img/menu.png)
