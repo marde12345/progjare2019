@@ -195,10 +195,10 @@ class Client:
             
             menu = self.clientEngineView()
 
-            if menu == "lst":
-                self.lstEngine()
-
             if menu == "ls":
+                self.lsEngine()
+
+            if menu == "see":
                 self.seeEngine()
                 
             if menu == "download":
